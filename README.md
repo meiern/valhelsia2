@@ -1,4 +1,5 @@
 # Twitch App installieren 
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 	> Download: [https://www.twitch.tv/downloads](https://www.twitch.tv/downloads)
 
 # In der Twitch App Minecraft Mod "Valhelsia 2" installieren
