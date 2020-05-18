@@ -16,7 +16,7 @@
 * Nach unten Scrollen bis "Java-Einstellungen"
 * Zugewiesener Speicher auf 4 - 8 GB setzen (je nach Verfügbarkeit)
 
-# Optifine lokal installieren
+# Optifine installieren
 * Twitch App öffnen
 * Auf Reiter "Mods" wechseln
 * Minecraft wählen
