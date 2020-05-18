@@ -1,5 +1,5 @@
 # Twitch App installieren 
-	* Download: https://www.twitch.tv/downloads
+	> Download: https://www.twitch.tv/downloads
 
 # In der Twitch App Minecraft Mod "Valhelsia 2" installieren
 	* Twitch App öffnen
